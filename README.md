@@ -1,10 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Mykhailo Hulii</h1>
 <h3 align="center">A passionate backend .NET developer from Ukraine</h3>
+<img  align="right" width="350" src="https://i.postimg.cc/QMqB8Vp6/Image.jpg" alt="miha0809" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miha0809&label=Profile%20views&color=0e75b6&style=flat" alt="miha0809" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miha0809" alt="miha0809" /></a> </p>
 
 - 🔭 I’m currently working on [Sport](https://github.com/Miha0809/Sport)
 
