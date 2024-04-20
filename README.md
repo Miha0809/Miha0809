@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sport](https://github.com/Miha0809/Sport)
 
-- 🌱 I’m currently learning **Docker and GraphQL**
+- 🌱 I’m currently learning **Docker, GraphQL and Redis**
 
 - 🤝 I’m looking for help with [Delivery](https://github.com/Miha0809/Delivery)
 
