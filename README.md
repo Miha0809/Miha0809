@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miha0809&label=Profile%20views&color=0e75b6&style=flat" alt="miha0809" /> </p>
 
-- 🔭 I’m currently working on [Sport](https://github.com/Miha0809/Sport)
+- 🔭 I’m currently working on [Sport](https://github.com/Miha0809/Sport) and [Delivery](https://github.com/Miha0809/Delivery)
 
-- 🌱 I’m currently learning **Docker and Redis**
+- 🌱 I’m currently learning **ASP.NET Core Web API and Redis**
 
-- 💬 Ask me about **C#, ASP.NET Core, MVC, REST**
+- 💬 Ask me about **C#, ASP.NET Core, MVC, REST, Databases**
 
 - 📫 How to reach me **miha080104@gmail.com**
 
