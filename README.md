@@ -47,3 +47,193 @@
 <!--   <img src="https://github.r2v.ch/codewars?user=Mark_Full&theme=light" alt="miha0809" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miha0809&" alt="miha0809" />
 </div>
+
+# Проєкти (UKR)
+
+<details>
+<summary>AutoSelect</summary>
+
+###### [Link](https://github.com/Miha0809/AutoSelect)
+
+### Мета проєкту:
+Створення повноцінного сайту для полегкшення пошуку спеціаліста по пошуку та огляду автомобіля.
+
+### Тривалість:
+Липень 2024 - 
+
+### Технології:
+- Мова програмування: C#
+- Фреймворки: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- База даних: PostgreSQL
+- Back-end: ASP.NET Core Web API
+- Front-end: Blazor WebAssembly
+- Контейнеризація: Docker
+
+### Архітектура:
+- Проект монолітної архітектури
+- API REST
+- SPA
+
+### Паттерни:
+- SOLID
+- KISS (Keep It Simple, Stupid)
+- DRY (Don't Repeat Yourself)
+- MVC (Model-View-Controller)
+</details>
+
+
+<details>
+<summary>Sport</summary>
+
+###### [Link](https://github.com/Miha0809/Sport)
+
+### Мета проєкту:
+Створити проект на тему "Розроблення веб-додатку для організації бігових змагань в режимі реального часу для ОС Android" на дипломну роботу для коледжа НТУ
+
+### Тривалість:
+Квітень 2024 - Травень 2024
+
+### Технології:
+- Мова програмування: C#
+- Фреймворки: ASP.NET Core Web API, EntityFramework Core, Identity, AutoMapper
+- База даних: PostgreSQL
+- Хостинг: Render
+- Контейнеризація: Docker
+
+### Архітектура:
+- Проект монолітної архітектури
+- API REST
+
+### Паттерни:
+- SOLID
+- KISS (Keep It Simple, Stupid)
+- DRY (Don't Repeat Yourself)
+- MVC (Model-View-Controller)
+</details>
+
+
+<details>
+<summary>Delivery</summary>
+
+###### [Link](https://github.com/Miha0809/Delivery)
+
+### Мета проєкту:
+Створення маркетплейсу для продажі домашніх продуктів.
+
+### Тривалість:
+Грудень 2023 - Травень 2024
+
+### Технології:
+- Мова програмування: C#
+- Фреймворки: ASP.NET Core Web API, EntityFramework Core, Identity, AutoMapper
+- База даних: PostgreSQL
+- Хостинг: Render
+- Контейнеризація: Docker
+
+### Архітектура:
+- Проект монолітної архітектури
+- API REST
+
+### Паттерни:
+- MVC (Model-View-Controller)
+    
+### Роль:
+- Роль: розробка back-end частини.
+</details>
+
+
+<br />
+
+
+# Projekty (PL)
+
+<details>
+<summary>AutoSelect</summary>
+
+###### [Link](https://github.com/Miha0809/AutoSelect)
+
+### Cel projektu:
+Stworzenie pełnoprawnej strony internetowej ułatwiającej wyszukiwanie specjalisty w zakresie wyszukiwania i przeglądu samochodu.
+
+### Czas trwania:
+Lipiec 2024 - 
+
+### Technologie:
+- Język programowania: C#
+- Frameworki: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- Baza danych: PostgreSQL
+- Back-end: ASP.NET Core Web API
+- Front-end: Blazor WebAssembly
+- Konteneryzacja: Docker
+
+### Architektura:
+- Monolitna architektura projekta
+- API REST
+- SPA
+
+### Wzorce:
+- SOLID
+- KISS (Keep It Simple, Stupid)
+- DRY (Don't Repeat Yourself)
+- MVC (Model-View-Controller)
+</details>
+
+
+<details>
+<summary>Sport</summary>
+
+###### [Link](https://github.com/Miha0809/Sport)
+
+### Cel projektu:
+Utwórz projekt pt. „Rozwój aplikacji internetowej do zawodów biegowych w czasie rzeczywistym dla systemu Android” na potrzeby pracy dyplomowej
+
+### Czas trwania:
+Kwiecień 2024 - Maj 2024
+
+### Technologie:
+- Język programowania: C#
+- Frameworki: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- Baza danych: PostgreSQL
+- Hosting: Render
+- Konteneryzacja: Docker
+
+### Architektura:
+- Monolitna architektura projekta
+- API REST
+
+### Wzorce:
+- SOLID
+- KISS (Keep It Simple, Stupid)
+- DRY (Don't Repeat Yourself)
+- MVC (Model-View-Controller)
+</details>
+
+
+<details>
+<summary>Delivery</summary>
+
+###### [Link](https://github.com/Miha0809/Delivery)
+
+### Cel projektu:
+Stworzenie marketplace produktów domowych
+
+### Czas trwania:
+Grudzień 2023 - Maj 2024
+
+### Technologie:
+- Język programowania: C#
+- Frameworki: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- Baza danych: PostgreSQL
+- Hosting: Render
+- Konteneryzacja: Docker
+
+### Architektura:
+- Monolitna architektura projekta
+- API REST
+
+### Wzorce:
+- MVC (Model-View-Controller)
+    
+### Rola:
+- Rola: rozwój części back-endowej.
+</details>
