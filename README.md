@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AutoSelect](https://github.com/Miha0809/AutoSelect)
 
-- 🌱 I’m currently learning **ASP.NET Core Web API and Redis**
+- 🌱 I’m currently learning **ASP.NET Core Web API and React**
 
 - 💬 Ask me about **C#, ASP.NET Core, MVC, REST, Databases**
 
