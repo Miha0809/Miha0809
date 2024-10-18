@@ -61,13 +61,16 @@
 ### Тривалість:
 Липень 2024 - 
 
-### Технології:
+### Технології back-end:
 - Мова програмування: C#
-- Фреймворки: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- Фреймворки: ASP.NET Core, EntityFramework Core
+- Бібліотеки: Identity, AutoMapper
 - База даних: PostgreSQL
-- Back-end: ASP.NET Core Web API
-- Front-end: Blazor WebAssembly
 - Контейнеризація: Docker
+
+### Технології front-end:
+- Мова програмування: TypeScript
+- Бібліотеки: React
 
 ### Архітектура:
 - Проект монолітної архітектури
