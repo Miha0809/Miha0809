@@ -158,13 +158,16 @@ Stworzenie pełnoprawnej strony internetowej ułatwiającej wyszukiwanie specjal
 ### Czas trwania:
 Lipiec 2024 - 
 
-### Technologie:
+### Technologie back-end:
 - Język programowania: C#
-- Frameworki: ASP.NET Core, EntityFramework Core, Identity, AutoMapper
+- Frameworki: ASP.NET Core Web API, EntityFramework Core
+- Biblioteki: Identity, AutoMapper
 - Baza danych: PostgreSQL
-- Back-end: ASP.NET Core Web API
-- Front-end: Blazor WebAssembly
 - Konteneryzacja: Docker
+
+### Technologie front-end:
+- Język programowania: TypeScript
+- Biblioteki: React
 
 ### Architektura:
 - Monolitna architektura projekta
