@@ -51,6 +51,26 @@
 # Проєкти (UKR)
 
 <details>
+<summary>react-sneakers</summary>
+
+###### [Link](https://github.com/Miha0809/react-sneakers)
+
+### Мета проєкту:
+Попрактикуватись та зрозуміти:
+- бібліотеку React;
+- Пропси
+- Хукі
+- Надсилання запитів на back-end (mockapi) 
+
+### Тривалість:
+Жовтень 2024 - Жовтень 2024
+
+### Технології front-end:
+- Мова програмування: Javascript
+- Бібліотеки: React, axios + fenth
+</details>
+
+<details>
 <summary>AutoSelect</summary>
 
 ###### [Link](https://github.com/Miha0809/AutoSelect)
@@ -149,6 +169,26 @@
 
 
 # Projekty (PL)
+
+<details>
+<summary>react-sneakers</summary>
+
+###### [Link](https://github.com/Miha0809/react-sneakers)
+
+### Cel projektu:
+poćwiczyć oraz zrozumieć:
+- bibliotekę React;
+- propsy
+- hooks
+- Wysłanie requestów на back-end (mockapi) 
+
+### Czas trwania:
+Październik 2024 - Październik 2024
+
+### Technologie front-end:
+- Język programowania: Javascript
+- Biblioteki: React, axios + fenth
+</details>
 
 <details>
 <summary>AutoSelect</summary>
