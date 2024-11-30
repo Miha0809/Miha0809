@@ -40,13 +40,16 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=miha0809&show_icons=true&locale=en" alt="miha0809" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miha0809&show_icons=true&locale=en&layout=compact" alt="miha0809" />
-
-<div style="display: inline-block;">
-<!--   <img src="https://github.r2v.ch/codewars?user=Mark_Full&theme=light" alt="miha0809" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miha0809&" alt="miha0809" />
+<div style="display: inline-block; text-align: left; white-space: nowrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miha0809&" alt="Github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miha0809&show_icons=true&locale=en" alt="Github" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miha0809&show_icons=true&locale=en&layout=compact" alt="Github" />
+  <img align="top" src="https://www.codewars.com/users/Mark_Full/badges/large" alt="Codewars" />
 </div>
+
+
+
 
 # Проєкти (UKR)
 
