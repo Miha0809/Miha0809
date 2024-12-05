@@ -41,7 +41,7 @@
 </p>
 
 <div style="display: inline-block; text-align: left; white-space: nowrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miha0809&" alt="Github" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miha0809&" alt="Github" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=miha0809&show_icons=true&locale=en" alt="Github" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miha0809&show_icons=true&locale=en&layout=compact" alt="Github" />
