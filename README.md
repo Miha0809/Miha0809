@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miha0809&label=Profile%20views&color=0e75b6&style=flat" alt="miha0809" /> </p>
 
-- 🔭 I’m currently working on [TechBox](https://github.com/Miha0809/TechBox)
+- 🔭 I’m currently working on [AutoSelect](https://github.com/Miha0809/AutoSelect)
 
 - 🌱 I’m currently learning **ASP.NET Core Web API and React**
 
